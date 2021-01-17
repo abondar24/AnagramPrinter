@@ -1,8 +1,8 @@
-#Anagram printer
+# Anagram printer
 
 Dummy angaram printer for a word based on a dictionary. Anagrams contain words with minimum three letters.
 
-##Build and run
+## Build and run
 
 
 ```
